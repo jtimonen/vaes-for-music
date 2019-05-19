@@ -11,4 +11,4 @@ Data preprocessing is done using codes in the notebooks
 
 Generated new musical samples are in the `samples` directory, both in midi and mp3 format. Below is an example of a generated four-track sequence.
 
-![example](samples/lin16/img/random_0010.png)
+![example](samples/lin16/img/random_010.png)
