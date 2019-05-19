@@ -9,6 +9,6 @@ Data preprocessing is done using codes in the notebooks
 * `C_splice_tracks` - splicing the tracks to create the training examples
 * `D_listen_to_data`: listening to training examples
 
-Generated new musical samples are in the `samples` directory, both in midi and mp3 format. Below is an example of a generated four-track sequence.
+Generated new musical samples are in the `samples` directory, both in midi and mp3 format. Four representative samples are in the subfolder `samples/selected`. Below is an example of a generated four-track sequence pianoroll. 
 
 ![example](samples/lin16/img/random_010.png)
