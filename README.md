@@ -1,7 +1,12 @@
 # Music creation using VAEs
+Project work for the 2019 course *CS-E4890 Deep Learning* in Aalto University
+
+*NOTE:* some generated music samples can now be listened also in Soundcloud!
+https://soundcloud.com/user-297260498/sets/vae-music
+
 The main notebooks for training the models and generating music are
-* `1-vae.ipynb` - the main notebook for my project of the 2019 course *CS-E4890 Deep Learning* in Aalto University
-* `2-beta-vae.ipynb` - not a part of the above project
+* `1-vae.ipynb` - the main notebook 
+* `2-beta-vae.ipynb` - not a part of the project
 
 Data preprocessing is done using codes in the notebooks
 * `A_filter.ipynb` - filtering the raw midi data
