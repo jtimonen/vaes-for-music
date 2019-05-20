@@ -1,5 +1,5 @@
 # Music creation using VAEs
-This is a project work for the 2019 course CS-E4890 Deep Learning in Aalto University. Generated new musical samples are in the `samples` directory, both in midi and mp3 format. Four representative samples are in the subfolder `samples/selected`. If you don't want to download the generated samples, you can listen to some examples also [here](https://soundcloud.com/user-297260498/sets/vae-music)!
+This is a project work for the 2019 course CS-E4890 Deep Learning in Aalto University. Generated new music can be found in the `samples` directory, both in midi and mp3 format. If you don't want to download the generated samples, you can listen to some examples also [here](https://soundcloud.com/user-297260498/sets/vae-music)!
 
 The main notebooks for training the models and generating music are
 * `1-vae.ipynb` 
