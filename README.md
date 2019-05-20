@@ -11,6 +11,6 @@ Data preprocessing is done using codes in the notebooks
 * `C_splice_tracks` - splicing the tracks to create the training examples
 * `D_listen_to_data` - listening to training examples
 
- Below is an example of a generated four-track sequence pianoroll. 
+ Below is an example pianoroll for a generated four-track sequence. 
 
 ![example](samples/lin16/img/random_011.png)
