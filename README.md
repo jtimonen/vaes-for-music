@@ -1,7 +1,7 @@
 # Music creation using VAEs
 The main notebooks for training the models and generating music are
-* `1-vae.ipynb`
-* `2-beta-vae.ipynb`
+* `1-vae.ipynb` - the main notebook for my project of the 2019 course *CS-E4890 Deep Learning* in Aalto University
+* `2-beta-vae.ipynb` - not a part of the above project
 
 Data preprocessing is done using codes in the notebooks
 * `A_filter.ipynb` - filtering the raw midi data
